@@ -1,0 +1,6 @@
+Transfered data:
+int oldPosition
+int newPosition
+
+DataTransferMethod:
+Synchronous data transfer, server sends then waits for response from client before beeing able to send again.
